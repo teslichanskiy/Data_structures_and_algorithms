@@ -1,0 +1,10 @@
+Ivanov	V.S.	1	10	Moscow	15/6/2023,0:20	1	3
+Petrov	V.V.	1	13	Kiev	18/6/2023,14:15	2	2
+Vladov	F.G.	4	50	Lisbon 14/6/2023,8:45	2	5
+Hetfield J.A.	3	40	Paris	13/6/2023,14:55	2	3
+Sidorov	K.D.	3	14	Antalya	16/6/2023,15:15	0	1
+Malikov	Y.E.	2	15	Moscow	13/6/2023,15:10	2	5
+Gorkin	M.B.	2	25	London	13/6/2023,14:44	1	0
+Dolgov	D.D.	2	35	Hanoi	13/6/2023,17:15	0	0
+Teslya	D.S.	3	55	Antalya 13/6/2023,14:50 0 	0
+Gorkin	M.B.	5 	56	Oslo	16/6/2023,15:45 0 	1
